@@ -10,8 +10,4 @@ class TddDemoApplicationTests {
     void contextLoads() {
     }
 
-    @Test
-    void test() {
-
-    }
 }
